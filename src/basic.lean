@@ -1,2 +1,3 @@
 import tactic
 
+def topology
